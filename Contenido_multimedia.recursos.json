@@ -1,0 +1,1281 @@
+[{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890001"
+  },
+  "nombre": "Titanic",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 4,
+  "reseña": "Muy buena, la disfruté bastante.",
+  "fecha_finalizacion": "2025-06-15",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55184"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890002"
+  },
+  "nombre": "Matrix",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a5"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a9"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55185"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890003"
+  },
+  "nombre": "Stranger Things",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a8"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 3,
+  "reseña": "Regular, algunas partes fueron entretenidas.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55187"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890004"
+  },
+  "nombre": "1984",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a5"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55198"
+  },
+  "valoracion": 5,
+  "reseña": "Obra maestra, la recomiendo totalmente.",
+  "fecha_finalizacion": "2025-07-10",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518a"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890005"
+  },
+  "nombre": "Friends",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a6"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518c"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890006"
+  },
+  "nombre": "The Godfather",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 5,
+  "reseña": "Una obra maestra del cine. Inolvidable.",
+  "fecha_finalizacion": "2025-06-20",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55186"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890007"
+  },
+  "nombre": "Coco",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551af"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55181"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890008"
+  },
+  "nombre": "Breaking Bad",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 4,
+  "reseña": "Muy buena, con personajes profundos.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55189"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890009"
+  },
+  "nombre": "To Kill a Mockingbird",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55198"
+  },
+  "valoracion": 5,
+  "reseña": "Una lectura obligatoria, muy significativa.",
+  "fecha_finalizacion": "2025-05-10",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55183"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789000a"
+  },
+  "nombre": "La La Land",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551b2"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 3,
+  "reseña": "Regular, esperaba más emoción.",
+  "fecha_finalizacion": "2025-04-18",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55188"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789000b"
+  },
+  "nombre": "The Crown",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 3,
+  "reseña": "Me está gustando, aunque va algo lenta.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55180"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789000c"
+  },
+  "nombre": "Pride and Prejudice",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55198"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518b"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789000d"
+  },
+  "nombre": "Interstellar",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a9"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a5"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 5,
+  "reseña": "Increíble visualmente y emocionalmente profunda.",
+  "fecha_finalizacion": "2025-06-02",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518d"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789000e"
+  },
+  "nombre": "Parasite",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 5,
+  "reseña": "Genial. Impactante y muy bien escrita.",
+  "fecha_finalizacion": "2025-07-01",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518a"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789000f"
+  },
+  "nombre": "Inception",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a9"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55187"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890010"
+  },
+  "nombre": "Inception",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a9"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 5,
+  "reseña": "Obra maestra, la recomiendo totalmente.",
+  "fecha_finalizacion": "2025-06-22",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55185"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890011"
+  },
+  "nombre": "Avatar",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a9"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a8"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 4,
+  "reseña": "Muy buena, visualmente impactante.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55182"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890012"
+  },
+  "nombre": "The Notebook",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518c"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890013"
+  },
+  "nombre": "Breaking Bad",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 5,
+  "reseña": "Impresionante. La mejor serie que he visto.",
+  "fecha_finalizacion": "2025-06-30",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518b"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890014"
+  },
+  "nombre": "To Kill a Mockingbird",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55198"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55187"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890015"
+  },
+  "nombre": "Friends",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a6"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 3,
+  "reseña": "Me hace reír, pero a veces es repetitiva.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55189"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890016"
+  },
+  "nombre": "Coco",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551af"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 4,
+  "reseña": "Muy emotiva y colorida, me encantó.",
+  "fecha_finalizacion": "2025-07-02",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518a"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890017"
+  },
+  "nombre": "Stranger Things",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a8"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55186"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890018"
+  },
+  "nombre": "Pride and Prejudice",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55198"
+  },
+  "valoracion": 4,
+  "reseña": "Muy elegante y bien escrita.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55183"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890019"
+  },
+  "nombre": "The Crown",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55184"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789001a"
+  },
+  "nombre": "Titanic",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 3,
+  "reseña": "Aunque reconozco que es una gran producción y el romance está bien construido, se me hizo algo larga y predecible. Aun así, la ambientación y la música son destacables.",
+  "fecha_finalizacion": "2025-06-11",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55188"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789001b"
+  },
+  "nombre": "1984",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a5"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55198"
+  },
+  "valoracion": 4,
+  "reseña": "Es un libro potente, con un mensaje que todavía hoy sigue siendo relevante. Algunas partes son densas, pero el mundo distópico está tan bien construido que no se puede soltar fácilmente.",
+  "fecha_finalizacion": "2025-07-14",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55187"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789001c"
+  },
+  "nombre": "Interstellar",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a9"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a5"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 4,
+  "reseña": "Voy por la mitad y ya me tiene atrapado. Los efectos visuales y la idea del tiempo relativo son fascinantes. Me emociona saber cómo terminará todo.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55181"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789001d"
+  },
+  "nombre": "The Notebook",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 2,
+  "reseña": "La historia de amor es linda, pero sentí que el desarrollo fue un poco forzado. Hubo momentos que me parecieron exagerados y no me llegó tanto como esperaba.",
+  "fecha_finalizacion": "2025-05-30",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55180"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789001e"
+  },
+  "nombre": "Breaking Bad",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 5,
+  "reseña": "Es simplemente adictiva. Cada capítulo es una montaña rusa de emociones y la evolución de Walter White es brutal. Me encanta lo cuidada que está la narrativa.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55183"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789001f"
+  },
+  "nombre": "Friends",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a6"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 4,
+  "reseña": "Aunque algunas bromas están algo pasadas de moda, la química entre los personajes es maravillosa. Es mi serie de fondo cuando quiero relajarme.",
+  "fecha_finalizacion": "2025-06-25",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55186"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890020"
+  },
+  "nombre": "La La Land",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551b2"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 3,
+  "reseña": "La música es hermosa y la fotografía también, aunque la historia aún no me termina de enganchar del todo. Estoy curioso por ver cómo termina.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518a"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890021"
+  },
+  "nombre": "Stranger Things",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a8"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 4,
+  "reseña": "Es una serie con mucha personalidad. La ambientación ochentera está muy bien lograda y los personajes se hacen querer. Tiene sus altibajos, pero vale la pena.",
+  "fecha_finalizacion": "2025-06-28",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518c"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890022"
+  },
+  "nombre": "Coco",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551af"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 4,
+  "reseña": "Hermosa en lo visual y muy conmovedora en lo emocional. Me encanta cómo celebra la cultura mexicana y los lazos familiares.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55189"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890023"
+  },
+  "nombre": "Avatar",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a9"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a8"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518d"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890024"
+  },
+  "nombre": "Pride and Prejudice",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55198"
+  },
+  "valoracion": 5,
+  "reseña": "Una joya de la literatura clásica. Me encantó la manera en que retrata el orgullo y los malentendidos en una época de tantas restricciones sociales. Elizabeth Bennet es un personaje inolvidable.",
+  "fecha_finalizacion": "2025-05-19",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55187"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890025"
+  },
+  "nombre": "The Crown",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 4,
+  "reseña": "Cada episodio es como una película. Me tiene enganchado por la calidad de producción y el retrato humano de la realeza británica. Me faltan pocas temporadas para alcanzar el final.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55186"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890026"
+  },
+  "nombre": "To Kill a Mockingbird",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55198"
+  },
+  "valoracion": 5,
+  "reseña": "Me conmovió profundamente. Es un relato poderoso contra el racismo, contado con una ternura increíble a través de los ojos de una niña. Atticus Finch se convirtió en uno de mis héroes literarios.",
+  "fecha_finalizacion": "2025-07-10",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55180"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890027"
+  },
+  "nombre": "Interstellar",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a9"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a5"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55181"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890028"
+  },
+  "nombre": "Friends",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a6"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55183"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890029"
+  },
+  "nombre": "Inception",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a9"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 5,
+  "reseña": "Una película compleja pero absolutamente brillante. Me tuvo cuestionando la realidad durante días. Nolan sabe cómo mezclar acción y filosofía de forma magistral.",
+  "fecha_finalizacion": "2025-06-05",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55184"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789002a"
+  },
+  "nombre": "The Godfather",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518d"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789002b"
+  },
+  "nombre": "Coco",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551af"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ab"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 5,
+  "reseña": "Lloré con esta película. Es una carta de amor a la familia y a nuestras raíces. Me tocó profundamente y además está bellamente animada.",
+  "fecha_finalizacion": "2025-06-18",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518a"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789002c"
+  },
+  "nombre": "Breaking Bad",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55188"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789002d"
+  },
+  "nombre": "Parasite",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 5,
+  "reseña": "Una crítica social con una narrativa impecable. Me sorprendió de principio a fin. Es de esas películas que te dejan reflexionando días después de verla.",
+  "fecha_finalizacion": "2025-07-03",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55189"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890037"
+  },
+  "nombre": "The Mandalorian",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a8"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a9"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 4,
+  "reseña": "Una serie visualmente muy cuidada. La historia del pequeño Grogu es entrañable y la ambientación Star Wars está muy bien mantenida.",
+  "fecha_finalizacion": "2025-06-30",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518d"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890038"
+  },
+  "nombre": "Black Mirror",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a9"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 5,
+  "reseña": "Cada episodio es una bofetada tecnológica. Las historias son inquietantes y muy bien logradas.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55180"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890039"
+  },
+  "nombre": "The Martian",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a9"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 4,
+  "reseña": "Matt Damon se luce en una historia muy humana sobre supervivencia y ciencia. Me gustó mucho cómo mezclan drama y humor.",
+  "fecha_finalizacion": "2025-07-04",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518c"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789003a"
+  },
+  "nombre": "Mindhunter",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551ad"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55186"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789003b"
+  },
+  "nombre": "Inside Out",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551af"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 5,
+  "reseña": "Una de las películas más creativas y conmovedoras que he visto. Te hace reflexionar sobre lo importante que es aceptar todas nuestras emociones.",
+  "fecha_finalizacion": "2025-07-02",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae5518a"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789003c"
+  },
+  "nombre": "The Social Network",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 3,
+  "reseña": "Muy interesante ver el inicio de Facebook desde una perspectiva más crítica. El ritmo narrativo es rápido y los diálogos son filosos.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55185"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789003d"
+  },
+  "nombre": "The Last of Us",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551aa"
+    }
+  ],
+  "estado": "pendiente",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 0,
+  "reseña": "",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55183"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789003e"
+  },
+  "nombre": "Whiplash",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551b2"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 5,
+  "reseña": "Tensa, apasionante y brutal. La dinámica entre maestro y alumno es una locura. Te hace cuestionar hasta dónde vale la pena llegar por ser el mejor.",
+  "fecha_finalizacion": "2025-06-30",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55189"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc123456789003f"
+  },
+  "nombre": "The Handmaid's Tale",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551a8"
+    }
+  ],
+  "estado": "en curso",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae5519a"
+  },
+  "valoracion": 4,
+  "reseña": "Impactante desde el primer episodio. Es una distopía aterradora y muy bien actuada. No es fácil de ver, pero vale totalmente la pena.",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55184"
+  }
+},
+{
+  "_id": {
+    "$oid": "60a1d4e6abc1234567890040"
+  },
+  "nombre": "The Imitation Game",
+  "genero": [
+    {
+      "$oid": "6890ffff2da3e9cebae551a7"
+    },
+    {
+      "$oid": "6890ffff2da3e9cebae551b0"
+    }
+  ],
+  "estado": "terminado",
+  "formato": {
+    "$oid": "6890fff12da3e9cebae55199"
+  },
+  "valoracion": 4,
+  "reseña": "Una historia necesaria sobre Alan Turing. Me pareció una mezcla perfecta de drama, ciencia y reflexión sobre lo que implica ser diferente.",
+  "fecha_finalizacion": "2025-07-03",
+  "id_usuario": {
+    "$oid": "6890fe112da3e9cebae55182"
+  }
+}]
