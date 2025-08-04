@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae5517f"
+  },
+  "nombre": "Felipe Salazar",
+  "email": "felipesalillo@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae55180"
+  },
+  "nombre": "Ana Pérez",
+  "email": "ana.perez@example.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae55181"
+  },
+  "nombre": "Luis Gómez",
+  "email": "luis.gomez@example.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae55182"
+  },
+  "nombre": "María Fernández",
+  "email": "maria.fernandez@example.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae55183"
+  },
+  "nombre": "Carlos Martínez",
+  "email": "carlos.martinez@example.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae55184"
+  },
+  "nombre": "Sofía Rodríguez",
+  "email": "sofia.rodriguez@example.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae55185"
+  },
+  "nombre": "Diego Torres",
+  "email": "diego.torres@example.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae55186"
+  },
+  "nombre": "Lucía Sánchez",
+  "email": "lucia.sanchez@example.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae55187"
+  },
+  "nombre": "Jorge Morales",
+  "email": "jorge.morales@example.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae55188"
+  },
+  "nombre": "Elena Ruiz",
+  "email": "elena.ruiz@example.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae55189"
+  },
+  "nombre": "Andrés Castillo",
+  "email": "andres.castillo@example.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae5518a"
+  },
+  "nombre": "Valentina Ortiz",
+  "email": "valentina.ortiz@example.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae5518b"
+  },
+  "nombre": "Ricardo Díaz",
+  "email": "ricardo.diaz@example.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae5518c"
+  },
+  "nombre": "Paula Gómez",
+  "email": "paula.gomez@example.com"
+},
+{
+  "_id": {
+    "$oid": "6890fe112da3e9cebae5518d"
+  },
+  "nombre": "Martín Herrera",
+  "email": "martin.herrera@example.com"
+}]
