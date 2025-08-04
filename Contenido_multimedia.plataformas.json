@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6890fffa2da3e9cebae5519b"
+  },
+  "nombre": "Netflix"
+},
+{
+  "_id": {
+    "$oid": "6890fffa2da3e9cebae5519c"
+  },
+  "nombre": "Amazon Prime Video"
+},
+{
+  "_id": {
+    "$oid": "6890fffa2da3e9cebae5519d"
+  },
+  "nombre": "Disney+"
+},
+{
+  "_id": {
+    "$oid": "6890fffa2da3e9cebae5519e"
+  },
+  "nombre": "HBO Max"
+},
+{
+  "_id": {
+    "$oid": "6890fffa2da3e9cebae5519f"
+  },
+  "nombre": "Apple TV+"
+},
+{
+  "_id": {
+    "$oid": "6890fffa2da3e9cebae551a0"
+  },
+  "nombre": "Hulu"
+},
+{
+  "_id": {
+    "$oid": "6890fffa2da3e9cebae551a1"
+  },
+  "nombre": "YouTube"
+},
+{
+  "_id": {
+    "$oid": "6890fffa2da3e9cebae551a2"
+  },
+  "nombre": "Crunchyroll"
+},
+{
+  "_id": {
+    "$oid": "6890fffa2da3e9cebae551a3"
+  },
+  "nombre": "Paramount+"
+},
+{
+  "_id": {
+    "$oid": "6890fffa2da3e9cebae551a4"
+  },
+  "nombre": "Star+"
+}]
