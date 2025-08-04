@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551a5"
+  },
+  "nombre": "Acción"
+},
+{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551a6"
+  },
+  "nombre": "Comedia"
+},
+{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551a7"
+  },
+  "nombre": "Drama"
+},
+{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551a8"
+  },
+  "nombre": "Fantasia"
+},
+{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551a9"
+  },
+  "nombre": "Ciencia Ficción"
+},
+{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551aa"
+  },
+  "nombre": "Terror"
+},
+{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551ab"
+  },
+  "nombre": "Romance"
+},
+{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551ac"
+  },
+  "nombre": "Aventura"
+},
+{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551ad"
+  },
+  "nombre": "Suspenso"
+},
+{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551ae"
+  },
+  "nombre": "Documental"
+},
+{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551af"
+  },
+  "nombre": "Animación"
+},
+{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551b0"
+  },
+  "nombre": "Histórico"
+},
+{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551b1"
+  },
+  "nombre": "Misterio"
+},
+{
+  "_id": {
+    "$oid": "6890ffff2da3e9cebae551b2"
+  },
+  "nombre": "Musical"
+}]
