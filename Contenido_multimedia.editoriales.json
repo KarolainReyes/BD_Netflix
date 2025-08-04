@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6890ffd62da3e9cebae5518e"
+  },
+  "nombre": "Penguin Random House"
+},
+{
+  "_id": {
+    "$oid": "6890ffd62da3e9cebae5518f"
+  },
+  "nombre": "HarperCollins"
+},
+{
+  "_id": {
+    "$oid": "6890ffd62da3e9cebae55190"
+  },
+  "nombre": "Simon & Schuster"
+},
+{
+  "_id": {
+    "$oid": "6890ffd62da3e9cebae55191"
+  },
+  "nombre": "Macmillan Publishers"
+},
+{
+  "_id": {
+    "$oid": "6890ffd62da3e9cebae55192"
+  },
+  "nombre": "Hachette Livre"
+},
+{
+  "_id": {
+    "$oid": "6890ffd62da3e9cebae55193"
+  },
+  "nombre": "Scholastic"
+},
+{
+  "_id": {
+    "$oid": "6890ffd62da3e9cebae55194"
+  },
+  "nombre": "Oxford University Press"
+},
+{
+  "_id": {
+    "$oid": "6890ffd62da3e9cebae55195"
+  },
+  "nombre": "Cambridge University Press"
+},
+{
+  "_id": {
+    "$oid": "6890ffd62da3e9cebae55196"
+  },
+  "nombre": "Pearson"
+},
+{
+  "_id": {
+    "$oid": "6890ffd62da3e9cebae55197"
+  },
+  "nombre": "Planeta"
+}]
